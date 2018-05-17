@@ -1,2 +1,2 @@
 # data-minig
-data structure course project 2 (text minig with using BST)
+data structure course project2 (text minig BST implemantiton)

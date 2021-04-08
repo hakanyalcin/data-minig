@@ -4,7 +4,7 @@
 int i = 0;
 int c;
 struct node* root = NULL;
-
+int abc;
 struct node {
     char term[30];
     struct node *left, *right;
